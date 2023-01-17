@@ -1,9 +1,25 @@
+diff --git a/diferencias.diff b/diferencias.diff
+deleted file mode 100644
+index 8298c58..0000000
+--- a/diferencias.diff
++++ /dev/null
+@@ -1,9 +0,0 @@
+-diff --git a/prueba.txt b/prueba.txt
+-index ee49ea7..d690090 100644
+---- a/prueba.txt
+-+++ b/prueba.txt
+-@@ -1,2 +1 @@
+--aqwexkekw
+--
+-+aqwer
+-\ No newline at end of file
 diff --git a/prueba.txt b/prueba.txt
-index ee49ea7..d690090 100644
+index d690090..ee49ea7 100644
 --- a/prueba.txt
 +++ b/prueba.txt
-@@ -1,2 +1 @@
--aqwexkekw
--
-+aqwer
+@@ -1 +1,2 @@
+-aqwer
 \ No newline at end of file
++aqwexkekw
++
+
